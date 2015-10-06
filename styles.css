@@ -1,0 +1,51 @@
+#chart2 svg {
+  margin-top:60px;
+  height: 300px;
+}
+
+#emoryChart svg {
+  margin-top:60px;
+  height: 300px;
+}
+
+
+
+.body{
+background-color:#D7D8D0;
+  }
+
+.page{
+  margin-top: 35px;
+  border: solid white 13px;
+  background-color: #DCF5E9;
+
+}
+
+.top-row{
+  height: 100%;
+  background-color: #00C9B7;
+}
+
+.second-row{
+  height: 100%;
+  background-color: #00514A;
+}
+
+.header1{
+  text-align:center;;
+  color:white;
+  font-weight:bold;
+}
+
+.section-header{
+  font-size: 25px;
+  font-weight: bold;
+  color:#00514A;
+  text-align:center;
+}
+
+
+.border-left{
+  border-left: solid 2px;
+  border-color: #00514A;
+}
